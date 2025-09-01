@@ -23,13 +23,13 @@ This tool is basically the photoshop tool which helps you in placing name, QR co
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/ce54faf4-aabb-4e5e-a74a-a08f3aa29b23" width="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/a5ec2b82-a508-449a-9914-6d2d5c19b802" width="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/57b313bf-2eba-4136-8605-489585163e44" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/ce54faf4-aabb-4e5e-a74a-a08f3aa29b23" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/a5ec2b82-a508-449a-9914-6d2d5c19b802" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/57b313bf-2eba-4136-8605-489585163e44" width="300"></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/b9878f8b-98cd-4167-9770-eee4867d912c" width="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/9e40dcc5-8a90-4ebc-ae0a-f089c05e9715" width="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/a25f97a1-6ddc-44ba-8925-b28509fbd98c" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/b9878f8b-98cd-4167-9770-eee4867d912c" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/9e40dcc5-8a90-4ebc-ae0a-f089c05e9715" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/a25f97a1-6ddc-44ba-8925-b28509fbd98c" width="300"></td>
   </tr>
 </table>
