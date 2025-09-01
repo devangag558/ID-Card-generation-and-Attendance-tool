@@ -7,7 +7,7 @@
 ### Step 2 - Give some unique id (Roll number in this case) and run "python image cropper.py"
 This py program will help you crop the photgraphs very quickly as it will just move on to next on pressing enter, it already gives the square shaped box around face but you can shift it using the arrow keys or make entirely new one. You just have to select the folder which contains all the photos
 
-<img width="905" height="1019" alt="image" src="https://github.com/user-attachments/assets/11aed34c-bb52-4171-b6e6-f6849d97afd5" />
+<img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/11aed34c-bb52-4171-b6e6-f6849d97afd5" />
 
 
 ### Step 3 - Make the QR codes for the required feilds by executing the qr.py file
@@ -16,7 +16,7 @@ You could select which feild from the CSV you want to include in the QR code. Yo
 ### Step 4 - Now use "id card maker.py" file
 This tool is basically the photoshop tool which helps you in placing name, QR code, and photo on the ID Card Template. This will generate all the ID Cards in the seperate folder and also will generate the PDF file which would be very helpful while printing the ID Cards
 
-<img width="1056" height="942" alt="image" src="https://github.com/user-attachments/assets/fd6bad9d-de8b-4afc-93be-050da892444a" />
+<img width="105" height="94" alt="image" src="https://github.com/user-attachments/assets/fd6bad9d-de8b-4afc-93be-050da892444a" />
 
 
 ### Step 5 - Download Pydroid or any other relevant software using which you can run "Attendance System.py" in the Android Phone and you would be able to see the interface
