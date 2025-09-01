@@ -21,9 +21,15 @@ This tool is basically the photoshop tool which helps you in placing name, QR co
 
 ### Step 5 - Download Pydroid or any other relevant software using which you can run "Attendance System.py" in the Android Phone and you would be able to see the interface
 
-![WhatsApp Image 2025-09-01 at 13 55 44](https://github.com/user-attachments/assets/ce54faf4-aabb-4e5e-a74a-a08f3aa29b23)
-![WhatsApp Image 2025-09-01 at 13 55 45](https://github.com/user-attachments/assets/a5ec2b82-a508-449a-9914-6d2d5c19b802)
-![WhatsApp Image 2025-09-01 at 13 55 45 (1)](https://github.com/user-attachments/assets/57b313bf-2eba-4136-8605-489585163e44)
-![WhatsApp Image 2025-09-01 at 13 55 46](https://github.com/user-attachments/assets/b9878f8b-98cd-4167-9770-eee4867d912c)
-![WhatsApp Image 2025-09-01 at 13 55 46 (1)](https://github.com/user-attachments/assets/9e40dcc5-8a90-4ebc-ae0a-f089c05e9715)
-![WhatsApp Image 2025-09-01 at 13 55 46 (2)](https://github.com/user-attachments/assets/a25f97a1-6ddc-44ba-8925-b28509fbd98c)
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/ce54faf4-aabb-4e5e-a74a-a08f3aa29b23" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/a5ec2b82-a508-449a-9914-6d2d5c19b802" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/57b313bf-2eba-4136-8605-489585163e44" width="200"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/b9878f8b-98cd-4167-9770-eee4867d912c" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/9e40dcc5-8a90-4ebc-ae0a-f089c05e9715" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/a25f97a1-6ddc-44ba-8925-b28509fbd98c" width="200"></td>
+  </tr>
+</table>
