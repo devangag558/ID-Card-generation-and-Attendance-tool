@@ -2,6 +2,40 @@
 
 ## How to Use
 
+### Initial Step 
+if you are changing the file name of uploaded images according to roll number
+`function renamePhotos() {
+  const sheet = SpreadsheetApp.getActiveSpreadsheet().getActiveSheet();
+  const lastRow = sheet.getLastRow();
+  
+  // Starting at Row 2 to skip headers
+  for (let i = 2; i <= lastRow; i++) {
+    const rollNumber = sheet.getRange(i, 3).getValue(); // Column C
+    const fileUrl = sheet.getRange(i, 6).getValue();   // Column F
+    
+    if (fileUrl && rollNumber) {
+      try {
+        // Extract the File ID from the URL
+        const fileId = fileUrl.match(/[-\w]{25,}/);
+        
+        if (fileId) {
+          const file = DriveApp.getFileById(fileId[0]);
+          const extension = file.getName().split('.').pop(); // Keep original extension (jpg, png, etc.)
+          
+          // Rename the file
+          file.setName(rollNumber + "." + extension);
+          
+          // Optional: Mark as "Done" in Column G to track progress
+          sheet.getRange(i, 7).setValue("Renamed");
+        }
+      } catch (e) {
+        console.log("Error at row " + i + ": " + e.toString());
+        sheet.getRange(i, 7).setValue("Error: Not Found");
+      }
+    }
+  }
+}`
+
 ### Step 1 – Prepare the Excel File
 Create an Excel/CSV file containing details of all participants for whom ID cards need to be generated.  
 👉 The most efficient way is to circulate a Google Form and collect both participant details and photographs.
